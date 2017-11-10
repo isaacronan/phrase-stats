@@ -1,0 +1,5 @@
+export const UPDATE_PHRASE = 'UPDATE_PHRASE';
+export const SAVE_PHRASE = 'SAVE_PHRASE';
+export const REMOVE_PHRASE = 'REMOVE_PHRASE';
+
+export const TOGGLE_DETAILS = 'TOGGLE_DETAILS';
