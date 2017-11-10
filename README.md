@@ -1,3 +1,3 @@
-# react-boilerplate
+# phrase-stats
 
-This is a boilerplate project structure and configuration for a React app.
+This is a demo of Redux and React.
